@@ -1,0 +1,1973 @@
+:root {
+	--web-view-ids: AdmiWeb_-_1920_,AdmiWeb_-_1366;
+	--web-view-name: AdmiWeb - 1920 ;
+	--web-view-id: AdmiWeb_-_1920_;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: false;
+	--web-show-scale-controls: false;
+	--web-scale-on-double-click: false;
+	--web-center-horizontally: false;
+	--web-center-vertically: false;
+	--web-actual-size-on-double-click: false;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: false;
+	--web-add-image-compare: false;
+	--web-show-by-media-query: true;
+	--web-application: false;
+	--web-show-navigation-controls: false;
+	--web-enable-deep-linking: true;
+	--web-is-overlay: false;
+}
+#AdmiWeb_-_1920_,
+#AdmiWeb_-_1366 {
+	display: none;
+}
+@media (min-width: 1920px) {
+	.mediaViewInfo {
+		--web-view-name: AdmiWeb - 1920 ;
+		--web-view-id: AdmiWeb_-_1920_;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-enable-scale-up: true;
+		--web-navigate-on-keypress: true;
+		--web-show-by-media-query: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#AdmiWeb_-_1920_ {
+		position: absolute;
+		display: block;
+		width: 1920px;
+		height: 6999px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: AdmiWeb - 1920 ;
+		--web-view-id: AdmiWeb_-_1920_;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-enable-scale-up: true;
+		--web-navigate-on-keypress: true;
+		--web-show-by-media-query: true;
+		--web-enable-deep-linking: true;
+	}
+	#admi_home-removebg-preview {
+		position: absolute;
+		width: 1431px;
+		height: 756px;
+		left: 691px;
+		top: 324px;
+		overflow: visible;
+	}
+	#Rectangle_8 {
+		fill: rgba(20,56,117,1);
+	}
+	.Rectangle_8 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 1080px;
+		left: 0px;
+		top: 4312px;
+	}
+	#Rectangle_11 {
+		fill: rgba(20,56,117,1);
+	}
+	.Rectangle_11 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 1080px;
+		left: 0px;
+		top: 5382px;
+	}
+	#screenshots {
+		position: absolute;
+		width: 2194.656px;
+		height: 1080px;
+		left: -137px;
+		top: 3234px;
+		overflow: visible;
+	}
+	#Rectangle_7 {
+		fill: rgba(20,56,117,1);
+	}
+	.Rectangle_7 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 1080px;
+		left: 137px;
+		top: 0px;
+	}
+	#Screenshots_m {
+		left: 951px;
+		top: 177px;
+		position: absolute;
+		overflow: visible;
+		width: 293px;
+		white-space: nowrap;
+		line-height: 176px;
+		margin-top: -70.5px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.6px;
+		text-transform: uppercase;
+	}
+	#pictures {
+		position: absolute;
+		width: 2194.656px;
+		height: 788.051px;
+		left: 0px;
+		top: 239.654px;
+		overflow: visible;
+	}
+	#Pixel_True_Mockup_1 {
+		position: absolute;
+		width: 767.266px;
+		height: 763.982px;
+		left: 0px;
+		top: 16.641px;
+		overflow: visible;
+	}
+	#Pixel_True_Mockup_3 {
+		position: absolute;
+		width: 767.266px;
+		height: 763.983px;
+		left: 1090.023px;
+		top: 24.068px;
+		overflow: visible;
+	}
+	#Pixel_True_Mockup_4 {
+		position: absolute;
+		width: 767.266px;
+		height: 763.982px;
+		left: 706.266px;
+		top: 16.641px;
+		overflow: visible;
+	}
+	#Pixel_True_Mockup_5 {
+		position: absolute;
+		width: 767.266px;
+		height: 763.983px;
+		left: 370.633px;
+		top: 16.64px;
+		overflow: visible;
+	}
+	#Pixel_True_Mockup_6 {
+		position: absolute;
+		width: 767.266px;
+		height: 763.982px;
+		left: 1427.39px;
+		top: 24.068px;
+		overflow: visible;
+	}
+	#Course {
+		opacity: 0;
+		transform: translate(212.353px, -3402.023px) matrix(1,0,0,1,806.9395,3415.3692) rotate(10deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		line-height: 176px;
+		margin-top: -68px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 40px;
+		color: rgba(118,159,255,1);
+		letter-spacing: 0.6px;
+	}
+	#Search {
+		opacity: 0;
+		transform: translate(212.353px, -3402.023px) matrix(1,0,0,1,1528.9395,3415.3692) rotate(10deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 155px;
+		white-space: nowrap;
+		line-height: 176px;
+		margin-top: -68px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 40px;
+		color: rgba(118,159,255,1);
+		letter-spacing: 0.6px;
+	}
+	#Info {
+		opacity: 0;
+		transform: translate(212.353px, -3402.023px) matrix(1,0,0,1,469.9394,4028.3691) rotate(15deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 91px;
+		white-space: nowrap;
+		line-height: 60px;
+		margin-top: -10px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 40px;
+		color: rgba(118,159,255,1);
+		letter-spacing: 0.6px;
+	}
+	#Applied {
+		opacity: 0;
+		transform: translate(212.353px, -3402.023px) matrix(1,0,0,1,1145.9394,4028.3691) rotate(15deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 179px;
+		white-space: nowrap;
+		line-height: 60px;
+		margin-top: -10px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 40px;
+		color: rgba(118,159,255,1);
+		letter-spacing: 0.6px;
+	}
+	#Home {
+		opacity: 0;
+		transform: translate(212.353px, -3402.023px) matrix(1,0,0,1,108.9396,3415.3692) rotate(10deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 135px;
+		white-space: nowrap;
+		line-height: 176px;
+		margin-top: -68px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 40px;
+		color: rgba(118,159,255,1);
+		letter-spacing: 0.6px;
+	}
+	#terms {
+		position: absolute;
+		width: 1920px;
+		height: 1080px;
+		left: 0px;
+		top: 4305px;
+		overflow: visible;
+	}
+	#Component_1__6 {
+		position: absolute;
+		width: 1920px;
+		height: 1080px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_6_ {
+		opacity: 0.1;
+		fill: url(#Rectangle_6_);
+	}
+	.Rectangle_6_ {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 1080px;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_91 {
+		position: absolute;
+		width: 1752px;
+		height: 810px;
+		left: 91px;
+		top: 220px;
+		overflow: visible;
+	}
+	#Rectangle_9 {
+		opacity: 0.17;
+		fill: rgba(0,0,0,1);
+	}
+	.Rectangle_9 {
+		position: absolute;
+		overflow: visible;
+		width: 1752px;
+		height: 810px;
+		left: 0px;
+		top: 0px;
+	}
+	#Website_Usage_Policy_Please_re {
+		left: 47px;
+		top: 41px;
+		position: absolute;
+		overflow: hidden;
+		width: 1667px;
+		height: 753px;
+		line-height: 39px;
+		margin-top: -9.5px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(228,228,228,1);
+	}
+	#Terms__Conditions {
+		left: 740px;
+		top: 160px;
+		position: absolute;
+		overflow: visible;
+		width: 441px;
+		white-space: nowrap;
+		line-height: 176px;
+		margin-top: -70.5px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.6px;
+		text-transform: uppercase;
+	}
+	#privacy {
+		position: absolute;
+		width: 1920px;
+		height: 1080px;
+		left: 0px;
+		top: 5385px;
+		overflow: visible;
+	}
+	#Component_1__7 {
+		position: absolute;
+		width: 1920px;
+		height: 1080px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_6_bb {
+		opacity: 0.1;
+		fill: url(#Rectangle_6_bb);
+	}
+	.Rectangle_6_bb {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 1080px;
+		left: 0px;
+		top: 0px;
+	}
+	#Privacy_Policy {
+		left: 794px;
+		top: 160px;
+		position: absolute;
+		overflow: visible;
+		width: 333px;
+		white-space: nowrap;
+		line-height: 176px;
+		margin-top: -70.5px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.6px;
+		text-transform: uppercase;
+	}
+	#Group_92 {
+		position: absolute;
+		width: 1743px;
+		height: 785px;
+		left: 30px;
+		top: 239px;
+		overflow: visible;
+	}
+	#Rectangle_9_bc {
+		opacity: 0.17;
+		fill: rgba(0,0,0,1);
+	}
+	.Rectangle_9_bc {
+		position: absolute;
+		overflow: visible;
+		width: 1743px;
+		height: 785px;
+		left: 0px;
+		top: 0px;
+	}
+	#ADMI__PRIVACY_POLICY__This_Pri {
+		left: 47px;
+		top: 46px;
+		position: absolute;
+		overflow: hidden;
+		width: 1658px;
+		height: 704px;
+		line-height: 39px;
+		margin-top: -9.5px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(228,228,228,1);
+	}
+	#page2_about_us {
+		position: absolute;
+		width: 1920px;
+		height: 1080px;
+		left: 0px;
+		top: 1078px;
+		overflow: visible;
+	}
+	#Component_2__1 {
+		position: absolute;
+		width: 1920px;
+		height: 1078px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_4 {
+		fill: rgba(20,56,117,1);
+	}
+	.Rectangle_4 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 1078px;
+		left: 0px;
+		top: 0px;
+	}
+	#Component_1__3 {
+		position: absolute;
+		width: 1920px;
+		height: 1078px;
+		left: 0px;
+		top: 2px;
+		overflow: visible;
+	}
+	#Rectangle_6_bj {
+		opacity: 0.1;
+		fill: url(#Rectangle_6_bj);
+	}
+	.Rectangle_6_bj {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 1078px;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_90 {
+		position: absolute;
+		width: 1673.584px;
+		height: 998.941px;
+		left: 35.416px;
+		top: 15.347px;
+		overflow: visible;
+	}
+	#Group_89 {
+		position: absolute;
+		width: 779px;
+		height: 614px;
+		left: 894.584px;
+		top: 219.506px;
+		overflow: visible;
+	}
+	#About_US {
+		opacity: 0.91;
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 206px;
+		white-space: nowrap;
+		line-height: 176px;
+		margin-top: -70.5px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.6px;
+		text-transform: uppercase;
+	}
+	#The_app_has_a_one-stop_solutio {
+		opacity: 0.9;
+		left: 0px;
+		top: 101px;
+		position: absolute;
+		overflow: hidden;
+		width: 780px;
+		height: 513px;
+		line-height: 50px;
+		margin-top: -12.5px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(118,159,255,1);
+		letter-spacing: 0.6px;
+	}
+	#Pixel_True_Mockup_8 {
+		position: absolute;
+		width: 998.941px;
+		height: 998.941px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#streams {
+		position: absolute;
+		width: 1923px;
+		height: 1080px;
+		left: 0px;
+		top: 2156px;
+		overflow: visible;
+	}
+	#Rectangle_5 {
+		fill: rgba(20,56,117,1);
+	}
+	.Rectangle_5 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 1080px;
+		left: 0px;
+		top: 0px;
+	}
+	#Component_1__1 {
+		position: absolute;
+		width: 1920px;
+		height: 1080px;
+		left: 3px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_6_bt {
+		opacity: 0.1;
+		fill: url(#Rectangle_6_bt);
+	}
+	.Rectangle_6_bt {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 1080px;
+		left: 0px;
+		top: 0px;
+	}
+	#Find_different_streams_like_me {
+		opacity: 0.9;
+		left: 183px;
+		top: 747px;
+		position: absolute;
+		overflow: hidden;
+		width: 1556px;
+		height: 149px;
+		line-height: 50px;
+		margin-top: -12.5px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(228,228,228,1);
+		letter-spacing: 0.6px;
+	}
+	#icons {
+		position: absolute;
+		width: 1470px;
+		height: 285px;
+		left: 231px;
+		top: 357px;
+		overflow: visible;
+	}
+	#Medicine {
+		left: 12px;
+		top: 248px;
+		position: absolute;
+		overflow: visible;
+		width: 156px;
+		white-space: nowrap;
+		line-height: 50px;
+		margin-top: -10px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(118,159,255,1);
+		letter-spacing: 0.6px;
+	}
+	#ic_medicine {
+		position: absolute;
+		width: 200px;
+		height: 200px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Engineering {
+		left: 404px;
+		top: 248px;
+		position: absolute;
+		overflow: visible;
+		width: 210px;
+		white-space: nowrap;
+		line-height: 50px;
+		margin-top: -10px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(118,159,255,1);
+		letter-spacing: 0.6px;
+	}
+	#ic_engineering {
+		position: absolute;
+		width: 200px;
+		height: 200px;
+		left: 404px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Arts__Science {
+		left: 807px;
+		top: 248px;
+		position: absolute;
+		overflow: visible;
+		width: 246px;
+		white-space: nowrap;
+		line-height: 50px;
+		margin-top: -10px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(118,159,255,1);
+		letter-spacing: 0.6px;
+	}
+	#ic_arts {
+		position: absolute;
+		width: 200px;
+		height: 200px;
+		left: 816px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Para_Medicine {
+		left: 1228px;
+		top: 248px;
+		position: absolute;
+		overflow: visible;
+		width: 243px;
+		white-space: nowrap;
+		line-height: 50px;
+		margin-top: -10px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(118,159,255,1);
+		letter-spacing: 0.6px;
+	}
+	#ic_para_medicine {
+		position: absolute;
+		width: 200px;
+		height: 200px;
+		left: 1238px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Streams_b {
+		left: 867px;
+		top: 164px;
+		position: absolute;
+		overflow: visible;
+		width: 187px;
+		white-space: nowrap;
+		line-height: 176px;
+		margin-top: -70.5px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.6px;
+		text-transform: uppercase;
+	}
+	#home {
+		position: absolute;
+		width: 2071px;
+		height: 1081.376px;
+		left: 0px;
+		top: -1.376px;
+		overflow: visible;
+	}
+	#google_play_btn {
+		position: absolute;
+		width: 328px;
+		height: 115px;
+		left: 513px;
+		top: 753.376px;
+		overflow: visible;
+	}
+	#google_play_btn-removebg-previ {
+		filter: drop-shadow(15px 15px 16px rgba(0, 0, 0, 0.502));
+		position: absolute;
+		width: 328px;
+		height: 115px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_2 {
+		fill: transparent;
+		stroke: rgba(12,12,12,1);
+		stroke-width: 4px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_2 {
+		position: absolute;
+		overflow: visible;
+		width: 313px;
+		height: 93px;
+		left: 7px;
+		top: 12px;
+	}
+	#College_search_made_easier_wit {
+		left: 527px;
+		top: 579.376px;
+		position: absolute;
+		overflow: visible;
+		width: 419px;
+		white-space: nowrap;
+		line-height: 50px;
+		margin-top: -12.5px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(118,159,255,1);
+	}
+	#Get_every_detail_about_the_col {
+		left: 527px;
+		top: 251.376px;
+		position: absolute;
+		overflow: visible;
+		width: 766px;
+		white-space: nowrap;
+		line-height: 100px;
+		margin-top: -10px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 80px;
+		color: rgba(255,255,255,1);
+	}
+	#Rectangle_3_cc {
+		fill: url(#Rectangle_3_cc);
+	}
+	.Rectangle_3_cc {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 1080px;
+		left: 0px;
+		top: 1.376px;
+	}
+	#Rectangle_12_ce {
+		fill: url(#Rectangle_12_ce);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_12_ce {
+		position: absolute;
+		overflow: visible;
+		width: 1922.176px;
+		height: 1080px;
+		left: 0px;
+		top: 0px;
+	}
+	#Get_every_detail_about_the_col_cf {
+		left: 163px;
+		top: 279.376px;
+		position: absolute;
+		overflow: visible;
+		width: 842px;
+		white-space: nowrap;
+		line-height: 103px;
+		margin-top: -7.5px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 88px;
+		color: rgba(255,255,255,1);
+	}
+	#College_search_made_easier_wit_cg {
+		left: 156px;
+		top: 629px;
+		position: absolute;
+		overflow: visible;
+		width: 386px;
+		white-space: nowrap;
+		line-height: 38px;
+		margin-top: -7.5px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 23px;
+		color: rgba(118,159,255,1);
+	}
+	#google_play_btn_ch {
+		position: absolute;
+		width: 434px;
+		height: 153px;
+		left: 132px;
+		top: 739px;
+		overflow: visible;
+	}
+	#google_play_btn-removebg-previ_ci {
+		filter: drop-shadow(15px 15px 16px rgba(0, 0, 0, 0.502));
+		position: absolute;
+		width: 434px;
+		height: 153px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_2_cj {
+		fill: transparent;
+		stroke: rgba(12,12,12,1);
+		stroke-width: 7px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_2_cj {
+		position: absolute;
+		overflow: visible;
+		width: 411px;
+		height: 123px;
+		left: 11px;
+		top: 16px;
+	}
+	#admi_home-removebg-preview_ck {
+		position: absolute;
+		width: 1325px;
+		height: 700.109px;
+		left: 746px;
+		top: 380.643px;
+		overflow: visible;
+	}
+	#top_bar {
+		position: absolute;
+		width: 1920px;
+		height: 100px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Component_3__1 {
+		opacity: 0.69;
+		position: absolute;
+		width: 1920px;
+		height: 100px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_1 {
+		opacity: 0.7;
+		fill: rgba(14,55,126,1);
+	}
+	.Rectangle_1 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 100px;
+		left: 0px;
+		top: 0px;
+	}
+	a{
+        color: #fff;
+	  text-decoration: none;
+
+	}
+	#admi {
+		left: 147px;
+		top: 18.868px;
+		position: absolute;
+		overflow: hidden;
+		width: 147px;
+		height: 55.77820587158203px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 50px;
+		color: rgba(255,255,255,1);
+	}
+	#About_Us {
+		left: 837px;
+		top: 34.478px;
+		position: absolute;
+		overflow: visible;
+		width: 120px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(157,185,249,1);
+	}
+	#Line_1 {
+		fill: transparent;
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_1 {
+		overflow: visible;
+		position: absolute;
+		width: 110px;
+		height: 2px;
+		left: 1004.5px;
+		top: 72.646px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Streams_cr {
+		left: 1006px;
+		top: 33.955px;
+		position: absolute;
+		overflow: visible;
+		width: 107px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#Screenshots_cs {
+		left: 1169px;
+		top: 34.478px;
+		position: absolute;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(157,185,249,1);
+	}
+	#Terms__Conditions_ct {
+		left: 1369px;
+		top: 34.478px;
+		position: absolute;
+		overflow: visible;
+		width: 251px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(157,185,249,1);
+	}
+	#Privacy_Policy_cu {
+		left: 1673px;
+		top: 34.478px;
+		position: absolute;
+		overflow: visible;
+		width: 179px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(157,185,249,1);
+	}
+}
+@media (min-width: 0px) and (max-width: 1919px) {
+	.mediaViewInfo {
+		--web-view-name: AdmiWeb - 1366;
+		--web-view-id: AdmiWeb_-_1366;
+		--web-scale-on-resize: true;
+		--web-navigate-on-keypress: true;
+		--web-show-by-media-query: true;
+		--web-enable-deep-linking: true;
+	}
+	.header{
+		position: fixed;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	a{
+	text-decoration: none;
+		color: #fff;
+	}
+	#AdmiWeb_-_1366 {
+		position: absolute;
+		display: block;
+		width: 1366px;
+		height: 6444px;
+		background: linear-gradient(180deg, rgba(34,107,231,1) 0%, rgba(17,54,116,1) 100%);
+		overflow: hidden;
+		--web-view-name: AdmiWeb - 1366;
+		--web-view-id: AdmiWeb_-_1366;
+		--web-scale-on-resize: true;
+		--web-navigate-on-keypress: true;
+		--web-show-by-media-query: true;
+		--web-enable-deep-linking: true;
+	}
+	#home_cy {
+		position: absolute;
+		width: 1480px;
+		height: 772.384px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_12_c {
+		fill: url(#Rectangle_12_c);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_12_c {
+		position: absolute;
+		overflow: visible;
+		width: 1374px;
+		height: 772px;
+		left: 0px;
+		top: 0px;
+	}
+	#Get_every_detail_about_the_col_c {
+		left: 61px;
+		top: 182px;
+		position: absolute;
+		overflow: visible;
+		width: 574px;
+		white-space: nowrap;
+		line-height: 70px;
+		margin-top: -5px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 60px;
+		color: rgba(255,255,255,1);
+	}
+	#College_search_made_easier_wit_c {
+		left: 57px;
+		top: 419px;
+		position: absolute;
+		overflow: visible;
+		width: 302px;
+		white-space: nowrap;
+		line-height: 30px;
+		margin-top: -6px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(118,159,255,1);
+	}
+	#google_play_btn_c {
+		position: absolute;
+		width: 328px;
+		height: 115px;
+		left: 39px;
+		top: 511px;
+		overflow: visible;
+	}
+	#google_play_btn-removebg-previ_c {
+		filter: drop-shadow(15px 15px 16px rgba(0, 0, 0, 0.502));
+		position: absolute;
+		width: 328px;
+		height: 115px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_2_c {
+		fill: transparent;
+		stroke: rgba(12,12,12,1);
+		stroke-width: 4px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_2_c {
+		position: absolute;
+		overflow: visible;
+		width: 313px;
+		height: 93px;
+		left: 7px;
+		top: 12px;
+	}
+	#admi_home-removebg-preview_c {
+		position: absolute;
+		width: 1000px;
+		height: 528.384px;
+		left: 480px;
+		top: 244px;
+		overflow: visible;
+	}
+	#Component_2__2 {
+		position: absolute;
+		width: 1374px;
+		height: 772px;
+		left: -10px;
+		top: 769px;
+		overflow: visible;
+	}
+	#Rectangle_4_c {
+		fill: rgba(20,56,117,1);
+	}
+	.Rectangle_4_c {
+		position: absolute;
+		overflow: visible;
+		width: 1374px;
+		height: 772px;
+		left: 0px;
+		top: 0px;
+	}
+	#Component_1__8 {
+		position: absolute;
+		width: 1374px;
+		height: 772px;
+		left: -1px;
+		top: 772px;
+		overflow: visible;
+	}
+	#Rectangle_6_db {
+		opacity: 0.1;
+		fill: url(#Rectangle_6_db);
+	}
+	.Rectangle_6_db {
+		position: absolute;
+		overflow: visible;
+		width: 1374px;
+		height: 772px;
+		left: 0px;
+		top: 0px;
+	}
+	#page2_about_us_dc {
+		position: absolute;
+		width: 1270.655px;
+		height: 599.588px;
+		left: 25.345px;
+		top: 842.523px;
+		overflow: visible;
+	}
+	#Group_90_dd {
+		position: absolute;
+		width: 1270.655px;
+		height: 599.588px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_89_de {
+		position: absolute;
+		width: 690px;
+		height: 437px;
+		left: 580.655px;
+		top: 118.477px;
+		overflow: visible;
+	}
+	#About_US_df {
+		opacity: 0.91;
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 176px;
+		white-space: nowrap;
+		line-height: 81px;
+		margin-top: -25.5px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.6px;
+		text-transform: uppercase;
+	}
+	#The_app_has_a_one-stop_solutio_dg {
+		opacity: 0.9;
+		left: 0px;
+		top: 66px;
+		position: absolute;
+		overflow: visible;
+		width: 691px;
+		height: 371px;
+		line-height: 30px;
+		margin-top: -5px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(118,159,255,1);
+		letter-spacing: 0.6px;
+	}
+	#Pixel_True_Mockup_8_dh {
+		position: absolute;
+		width: 599.587px;
+		height: 599.588px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#streams_di {
+		position: absolute;
+		width: 1374px;
+		height: 772px;
+		left: -1px;
+		top: 1546px;
+		overflow: visible;
+	}
+	#Rectangle_5_dj {
+		fill: rgba(20,56,117,1);
+	}
+	.Rectangle_5_dj {
+		position: absolute;
+		overflow: visible;
+		width: 1372px;
+		height: 772px;
+		left: 0px;
+		top: 0px;
+	}
+	#Component_1__9 {
+		position: absolute;
+		width: 1371px;
+		height: 772px;
+		left: 3px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_6_dm {
+		opacity: 0.1;
+		fill: url(#Rectangle_6_dm);
+	}
+	.Rectangle_6_dm {
+		position: absolute;
+		overflow: visible;
+		width: 1371px;
+		height: 772px;
+		left: 0px;
+		top: 0px;
+	}
+	#Find_different_streams_like_me_dn {
+		opacity: 0.9;
+		left: 131px;
+		top: 534.291px;
+		position: absolute;
+		overflow: hidden;
+		width: 1112px;
+		height: 106.63597106933594px;
+		line-height: 50px;
+		margin-top: -12.5px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(228,228,228,1);
+		letter-spacing: 0.6px;
+	}
+	#icons_do {
+		position: absolute;
+		width: 1038px;
+		height: 201.727px;
+		left: 165px;
+		top: 255.482px;
+		overflow: visible;
+	}
+	#Medicine_dp {
+		left: 9px;
+		top: 177.727px;
+		position: absolute;
+		overflow: visible;
+		width: 104px;
+		white-space: nowrap;
+		line-height: 33px;
+		margin-top: -6.5px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(118,159,255,1);
+		letter-spacing: 0.6px;
+	}
+	#ic_medicine_dq {
+		position: absolute;
+		width: 143px;
+		height: 143px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Engineering_dr {
+		left: 289px;
+		top: 177.727px;
+		position: absolute;
+		overflow: visible;
+		width: 140px;
+		white-space: nowrap;
+		line-height: 33px;
+		margin-top: -6.5px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(118,159,255,1);
+		letter-spacing: 0.6px;
+	}
+	#ic_engineering_ds {
+		position: absolute;
+		width: 143px;
+		height: 143px;
+		left: 289px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Arts__Science_dt {
+		left: 577px;
+		top: 177.727px;
+		position: absolute;
+		overflow: visible;
+		width: 164px;
+		white-space: nowrap;
+		line-height: 33px;
+		margin-top: -6.5px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(118,159,255,1);
+		letter-spacing: 0.6px;
+	}
+	#ic_arts_du {
+		position: absolute;
+		width: 143px;
+		height: 143px;
+		left: 583px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Para_Medicine_dv {
+		left: 877px;
+		top: 177.727px;
+		position: absolute;
+		overflow: visible;
+		width: 162px;
+		white-space: nowrap;
+		line-height: 33px;
+		margin-top: -6.5px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(118,159,255,1);
+		letter-spacing: 0.6px;
+	}
+	#ic_para_medicine_dw {
+		position: absolute;
+		width: 143px;
+		height: 143px;
+		left: 885px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Streams {
+		left: 619px;
+		top: 117.744px;
+		position: absolute;
+		overflow: visible;
+		width: 123px;
+		white-space: nowrap;
+		line-height: 116px;
+		margin-top: -46.5px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 23px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.6px;
+		text-transform: uppercase;
+	}
+	#screenshots_dy {
+		position: absolute;
+		width: 1374px;
+		height: 772px;
+		left: 5.216px;
+		top: 2314px;
+		overflow: visible;
+	}
+	#Rectangle_7_dz {
+		fill: rgba(20,56,117,1);
+	}
+	.Rectangle_7_dz {
+		position: absolute;
+		overflow: visible;
+		width: 1374px;
+		height: 772px;
+		left: 0px;
+		top: 0px;
+	}
+	#Screenshots {
+		left: 572.563px;
+		top: 138.121px;
+		position: absolute;
+		overflow: visible;
+		width: 185px;
+		white-space: nowrap;
+		line-height: 111px;
+		margin-top: -44.5px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 22px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.6px;
+		text-transform: uppercase;
+	}
+	#pictures_d {
+		position: absolute;
+		width: 1342.471px;
+		height: 516.019px;
+		left: 15.765px;
+		top: 199.539px;
+		overflow: visible;
+	}
+	#Pixel_True_Mockup_1_d {
+		position: absolute;
+		width: 477.82px;
+		height: 499.594px;
+		left: 0px;
+		top: 11.555px;
+		overflow: visible;
+	}
+	#Pixel_True_Mockup_3_d {
+		position: absolute;
+		width: 477.82px;
+		height: 499.595px;
+		left: 660.289px;
+		top: 16.424px;
+		overflow: visible;
+	}
+	#Pixel_True_Mockup_4_d {
+		position: absolute;
+		width: 477.82px;
+		height: 499.594px;
+		left: 427.825px;
+		top: 11.555px;
+		overflow: visible;
+	}
+	#Pixel_True_Mockup_5_d {
+		position: absolute;
+		width: 477.82px;
+		height: 499.595px;
+		left: 224.513px;
+		top: 11.555px;
+		overflow: visible;
+	}
+	#Pixel_True_Mockup_6_d {
+		position: absolute;
+		width: 477.82px;
+		height: 499.595px;
+		left: 864.651px;
+		top: 16.425px;
+		overflow: visible;
+	}
+	#Course_d {
+		opacity: 0;
+		transform: translate(6.521px, -12.524px) matrix(1,0,0,1,618.9633,16.917) rotate(10deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 53px;
+		white-space: nowrap;
+		line-height: 58px;
+		margin-top: -22.5px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(118,159,255,1);
+		letter-spacing: 0.6px;
+	}
+	#Search_d {
+		opacity: 0;
+		transform: translate(6.521px, -12.524px) matrix(1,0,0,1,1056.3165,16.971) rotate(10deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 51px;
+		white-space: nowrap;
+		line-height: 58px;
+		margin-top: -22.5px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(118,159,255,1);
+		letter-spacing: 0.6px;
+	}
+	#Info_d {
+		opacity: 0;
+		transform: translate(6.521px, -12.524px) matrix(1,0,0,1,415.4915,419.6911) rotate(15deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 31px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -3.5px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(118,159,255,1);
+		letter-spacing: 0.6px;
+	}
+	#Applied_ea {
+		opacity: 0;
+		transform: translate(6.521px, -12.524px) matrix(1,0,0,1,825.4143,415.8484) rotate(15deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 59px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -3.5px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(118,159,255,1);
+		letter-spacing: 0.6px;
+	}
+	#Home_eb {
+		opacity: 0;
+		transform: translate(6.521px, -12.524px) matrix(1,0,0,1,196.0953,17.5885) rotate(10deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 45px;
+		white-space: nowrap;
+		line-height: 58px;
+		margin-top: -22.5px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(118,159,255,1);
+		letter-spacing: 0.6px;
+	}
+	#terms_ec {
+		position: absolute;
+		width: 1379.216px;
+		height: 783px;
+		left: 0px;
+		top: 3084px;
+		overflow: visible;
+	}
+	#Rectangle_13 {
+		fill: rgba(20,56,117,1);
+	}
+	.Rectangle_13 {
+		position: absolute;
+		overflow: visible;
+		width: 1374px;
+		height: 772px;
+		left: 5.216px;
+		top: 0px;
+	}
+	#Component_1__10 {
+		position: absolute;
+		width: 1374px;
+		height: 772px;
+		left: 0px;
+		top: 11px;
+		overflow: visible;
+	}
+	#Rectangle_6_eg {
+		opacity: 0.1;
+		fill: url(#Rectangle_6_eg);
+	}
+	.Rectangle_6_eg {
+		position: absolute;
+		overflow: visible;
+		width: 1374px;
+		height: 772px;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_91_eh {
+		position: absolute;
+		width: 1253.775px;
+		height: 527.407px;
+		left: 35.122px;
+		top: 168.259px;
+		overflow: visible;
+	}
+	#Rectangle_9_ei {
+		opacity: 0.17;
+		fill: rgba(0,0,0,1);
+	}
+	.Rectangle_9_ei {
+		position: absolute;
+		overflow: visible;
+		width: 1253.775px;
+		height: 527.407px;
+		left: 0px;
+		top: 0px;
+	}
+	#Website_Usage_Policy_Please_re_ej {
+		left: 33.635px;
+		top: 30.56px;
+		position: absolute;
+		overflow: scroll;
+		width: 1192.231px;
+		height: 464.9217529296875px;
+		line-height: 39px;
+		margin-top: -9.5px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(228,228,228,1);
+	}
+	#Terms__Conditions_ek {
+		left: 529.563px;
+		top: 125.371px;
+		position: absolute;
+		overflow: visible;
+		width: 215px;
+		white-space: nowrap;
+		line-height: 86px;
+		margin-top: -34.5px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 17px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.6px;
+		text-transform: uppercase;
+	}
+	#Path_1 {
+		fill: transparent;
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_1 {
+		overflow: visible;
+		position: absolute;
+		width: 1289.555px;
+		height: 138.195px;
+		left: 406.3px;
+		top: 3404.667px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#privacy_em {
+		position: absolute;
+		width: 1379px;
+		height: 873px;
+		left: 0px;
+		top: 3865px;
+		overflow: visible;
+	}
+	#Rectangle_14 {
+		fill: rgba(20,56,117,1);
+	}
+	.Rectangle_14 {
+		position: absolute;
+		overflow: visible;
+		width: 1374px;
+		height: 772px;
+		left: 0px;
+		top: 0px;
+	}
+	#Component_1__11 {
+		position: absolute;
+		width: 1379px;
+		height: 873px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_6_eq {
+		opacity: 0.1;
+		fill: url(#Rectangle_6_eq);
+	}
+	.Rectangle_6_eq {
+		position: absolute;
+		overflow: visible;
+		width: 1379px;
+		height: 873px;
+		left: 0px;
+		top: 0px;
+	}
+	#Privacy_Policy_er {
+		left: 570px;
+		top: 129px;
+		position: absolute;
+		overflow: visible;
+		width: 239px;
+		white-space: nowrap;
+		line-height: 126px;
+		margin-top: -50.5px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.6px;
+		text-transform: uppercase;
+	}
+	#Group_92_es {
+		position: absolute;
+		width: 1252px;
+		height: 634px;
+		left: 65px;
+		top: 192px;
+		overflow: visible;
+	}
+	#Rectangle_9_et {
+		opacity: 0.17;
+		fill: rgba(0,0,0,1);
+	}
+	.Rectangle_9_et {
+		position: absolute;
+		overflow: visible;
+		width: 1252px;
+		height: 634px;
+		left: 0px;
+		top: 0px;
+	}
+	#Website_Usage_Policy_Please_re_eu {
+		left: 34px;
+		top: 33px;
+		position: absolute;
+		overflow: scroll;
+		width: 1191px;
+		height: 569px;
+		line-height: 39px;
+		margin-top: -9.5px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(228,228,228,1);
+	}
+	#top_bar_ev {
+		position: -webkit-sticky;
+ 		position: sticky;
+ 		top: 0;
+		width: 1366px;
+		height: 100px;
+		left: 0px;
+		
+		overflow: visible;
+	}
+	#Component_3__2 {
+		opacity: 0.69;
+		position: absolute;
+		width: 1366px;
+		height: 100px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_1_ex {
+		opacity: 0.7;
+		fill: rgba(14,55,126,1);
+	}
+	.Rectangle_1_ex {
+		position: absolute;
+		overflow: visible;
+		width: 1366px;
+		height: 100px;
+		left: 0px;
+		top: 0px;
+	}
+	#admi_ey {
+		left: 57px;
+		top: 28.868px;
+		position: absolute;
+		overflow: hidden;
+		width: 86px;
+		height: 33.77820587158203px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(255,255,255,1);
+	}
+	#About_Us_ez {
+		left: 560.533px;
+		top: 39.478px;
+		position: absolute;
+		overflow: visible;
+		width: 96px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(157,185,249,1);
+	}
+	#Streams_e {
+		left: 685.765px;
+		top: 38.955px;
+		position: absolute;
+		overflow: visible;
+		width: 86px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#Screenshots_e {
+		left: 801.448px;
+		top: 39.478px;
+		position: absolute;
+		overflow: visible;
+		width: 128px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(157,185,249,1);
+	}
+	#Terms__Conditions_e {
+		left: 958.853px;
+		top: 39.478px;
+		position: absolute;
+		overflow: visible;
+		width: 201px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(157,185,249,1);
+	}
+	#Privacy_Policy_e {
+		left: 1189px;
+		top: 39.478px;
+		position: absolute;
+		overflow: visible;
+		width: 143px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(157,185,249,1);
+	}
+}
